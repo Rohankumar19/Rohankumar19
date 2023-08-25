@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/rohankumar_19" target="blank"><img src="https://img.shields.io/twitter/follow/rohankumar_19?logo=twitter&style=for-the-badge" alt="rohankumar_19" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Javascript**
 
