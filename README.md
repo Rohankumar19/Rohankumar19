@@ -25,3 +25,11 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rohankumar19&show_icons=true&locale=en" alt="rohankumar19" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohankumar19&" alt="rohankumar19" /></p>
+      # generates a snake game from a github user (<github_user_name>) contributions graph, output a svg animation at <svg_out_path>
+      - name: generate github-contribution-grid-snake.svg
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
