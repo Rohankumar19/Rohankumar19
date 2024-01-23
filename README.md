@@ -28,4 +28,9 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rohankumar19&" alt="rohankumar19" /></p>
 
 
+<img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
+<img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+
+
+
 
