@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohankumar19" alt="rohankumar19" /></a> </p>
 
-- 🌱 I’m currently learning **Postman**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 💬 Ask me about **JavaScript**
 
