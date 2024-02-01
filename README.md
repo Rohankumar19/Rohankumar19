@@ -35,13 +35,7 @@
 <img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
-  Skills
 
-|Domains|Data|
-|----|----|
-|Languages|<img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg">|
-|Tools & Software|<img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/threejs/threejs-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg"> <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-original.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-line.svg"><img src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">|
-  
 
 
 
