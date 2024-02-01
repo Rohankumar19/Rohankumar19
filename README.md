@@ -35,7 +35,7 @@
 <img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 
-![Suvan's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Rohankumar19&theme=jolly)
+
 
 
 
