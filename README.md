@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rohankumar19&label=Profile%20views&color=0e75b6&style=flat" alt="rohankumar19" /> </p>
-![](https://komarev.com/ghpvc/?username=rohankumar19)[![wakatime](https://wakatime.com/badge/user/d739e0fd-c5e5-4834-8adc-2f9e8c6a1547.svg)](https://wakatime.com/@d739e0fd-c5e5-4834-8adc-2f9e8c6a1547)
+(https://komarev.com/ghpvc/?username=rohankumar19)[![wakatime](https://wakatime.com/badge/user/d739e0fd-c5e5-4834-8adc-2f9e8c6a1547.svg)](https://wakatime.com/@d739e0fd-c5e5-4834-8adc-2f9e8c6a1547)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rohankumar19" alt="rohankumar19" /></a> </p>
 
 - 🌱 I’m currently learning **Polygon**
