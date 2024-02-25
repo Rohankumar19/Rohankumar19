@@ -34,7 +34,7 @@
 <a href="https://github.com/Rohankumar19/github-stats">
 <img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img width="400" src="https://Rohankumar19.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohankumar19&theme=tokyonight)
 
 
 
